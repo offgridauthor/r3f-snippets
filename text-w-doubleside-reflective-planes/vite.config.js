@@ -9,7 +9,7 @@ export default {
     ],
     root: 'src/',
     publicDir: "../public/",
-    base: './',
+    base: './r3f-snippets/',
     server:
     {
         host: true,
